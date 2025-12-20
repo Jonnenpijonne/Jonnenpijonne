@@ -2,7 +2,7 @@
 
 > -Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
-![Security-minded-darkblue](https://img.shields.io/badge/Security%20minded-Compliance%20aware-darkgreen?style=for-the-badge)
+![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-darkblue?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
 ![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-blue)
