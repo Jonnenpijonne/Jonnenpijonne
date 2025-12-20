@@ -5,7 +5,7 @@
 ![Security-minded-darkblue](https://img.shields.io/badge/Security%20minded-Compliance%20aware-darkgreen?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
-![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-cobaltblue)
+![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-blue)
 
 
 
