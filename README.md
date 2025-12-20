@@ -31,6 +31,47 @@ Motto: "If it's not documented and tested, it doesn't exist."
 
 
 
+## Tech stack & tooling
+
+<!-- Platform & OS -->
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<!-- Cloud & identity -->
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<!-- Containers & CI -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<!-- IaC & scripting -->
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Languages & scripting basics -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+
+Detailed list:
+- Operating systems: Linux, Windows  
+- Cloud & identity: Microsoft 365, Azure (Entra ID / Azure AD)  
+- Containers & runtime: Docker  
+- CI/CD & automation: GitHub Actions  
+- Infrastructure & configuration: Infrastructure as Code (YAML)  
+- Scripting & web basics: Bash, Node.js (basic), JavaScript (basic), HTTP/HTTPS  
+- Languages (basics/working knowledge): Python, Rust, PowerShell  
+- ITSM & operations: ITIL 4 practices, service processes, compliance workflows  
+- Documentation & validation: Technical documentation, validation plans, audit-ready artefacts  
+- Security & compliance exposure: MDR, ISO 27001-aligned environments
+
+
+
 ## Project badges
 
 ![Auto Assign](https://github.com/JonSil89/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
@@ -39,19 +80,20 @@ Motto: "If it's not documented and tested, it doesn't exist."
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 
 
+
 ## Featured projects
 
 ### Home Assistant as a Service (HaaS)
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker  
 - Repo: https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-  
-
+- Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. I can inspect the repo to produce a language/file-type breakdown and add language/license badges if you want.
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
 - Tech: ClickUp + AI workflows, automation for compliance documentation  
 - Repo: https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI  
-
+- Notes: If this repo is private or the path needs correction, please confirm or make it public and I’ll add language detection, badges and a direct link.
 
 ### Auto-Assign Passing (CI/CD validation & reporting)
 - Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
@@ -65,6 +107,20 @@ Motto: "If it's not documented and tested, it doesn't exist."
 
 
 
+## GitLab — HomeStack
+- Project: HomeStack  
+- Namespace / URL: https://gitlab.com/Jonnenpijonne/homestack  
+- Project ID: 75969590  
+- Summary (from project): 10 commits · 1 branch · 0 tags · 55 KiB project storage · 1 environment  
+- Files & notes: README, CHANGELOG, CONTRIBUTING, CI/CD configuration, LICENSE (Apache 2.0)  
+- Created on: November 10, 2025  
+- Last edits: README.MD edited 3 weeks ago (commit id 5096f5bc)  
+- Note: If you plan to push/pull via SSH to this GitLab project, add an SSH key to your GitLab profile (GitLab will remind you: "You can't push or pull repositories using SSH until you add an SSH key to your profile").
+
+(If you want a pipeline badge here, I can add it — confirm the pipeline/branch badge URL or make the project public and I’ll detect the correct badge URL for GitLab.)
+
+
+
 ## Achievements
 - Migrated thousands of devices in critical healthcare (HVA) with minimal disruption.  
 - Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments.
@@ -74,5 +130,9 @@ Motto: "If it's not documented and tested, it doesn't exist."
 ## Languages
 - Finnish (Native)  
 - English (C1)
+
+
+
+
 
 
