@@ -1,16 +1,84 @@
-## Hi there 👋
+# Jonnenpijonne 👋
 
-<!--
-**Jonnenpijonne/Jonnenpijonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Solution Designer | Secure Infrastructure & Compliance Architect — secure infrastructure, governance, and operational delivery.
 
-Here are some ideas to get you started:
+[![availability](https://img.shields.io/badge/availability-Open%20to%20opportunities-brightgreen)](https://github.com/Jonnenpijonne)
+![location](https://img.shields.io/badge/location-Tampere%2C%20Finland-blue)
+![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Architect-orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality.
+
+Motto: "If it's not documented and tested, it doesn't exist."
+
+---
+
+## Current
+- Location: Tampere, Finland  
+- Available: Open to opportunities (Technical Sales, Cloud Infrastructure, Compliance)
+
+---
+
+## Core skills
+- Azure & Cloud Governance  
+- Infrastructure as Code (IaC)  
+- MDR / ISO 27001 compliance  
+- CI/CD automation and pipeline validation  
+- ITIL 4 & operational processes  
+- Technical documentation & validation plans
+
+---
+
+## Project badges
+
+![Auto Assign](https://github.com/JonSil89/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Proof HTML](https://github.com/JonSil89/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+[![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
+
+---
+
+## Featured projects
+
+### Home Assistant as a Service (HaaS)
+- Role: Solution design & reproducible infrastructure (IaC + CI)  
+- Tech: YAML, GitHub Actions, Docker  
+- Repo: https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-  
+- Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. I can inspect the repo to produce a language/file-type breakdown and add language/license badges if you want.
+
+### AI-Powered ITSM Documentation & Automated Compliance Workflows
+- Role: Solution design & automation for ITSM documentation and compliance workflows  
+- Tech: ClickUp + AI workflows, automation for compliance documentation  
+- Repo: https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI  
+- Notes: If this repo is private or the path needs correction, please confirm or make it public and I’ll add language detection, badges and a direct link.
+
+### Auto-Assign Passing (CI/CD validation & reporting)
+- Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
+- Tech: GitHub Actions, shell scripting, HTML reporting  
+- Badge: the Auto Assign badge above points to the demo-repository workflow. Provide the exact repo URL if you want a direct repository link and language composition added.
+
+### Proof (HTML passing / reporting)
+- Role: Validation reporting — produce human-readable pass/fail HTML reports for release gates  
+- Tech: GitHub Actions, HTML reporting, scripts  
+- Badge: the Proof HTML badge above points to the demo-repository workflow. Provide the repo URL if this is a separate repo.
+
+---
+
+## Achievements
+- Migrated thousands of devices in critical healthcare (HVA) with minimal disruption.  
+- Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments.
+
+---
+
+## Languages
+- Finnish (Native)  
+- English (C1)
+
+---
+
+## Next steps / what I can do now
+- Add direct repo links, language breakdowns and license badges for the listed projects (provide repo URLs or make repos public).  
+- Convert achievements into quantified badges (share metrics/dates).  
+- Add contact badges (email, LinkedIn, website) — provide the links you want displayed.
