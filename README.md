@@ -5,8 +5,8 @@
 ![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-brightgreen?style=for-the-badge)
 ![Compliance ISO27001/MDR](https://img.shields.io/badge/Compliance-ISO%2027001%2FMDR-blue?style=for-the-badge)
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
-![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Architect-orange)
-![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
+![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20LightArchitect-orange)
+![role](https://img.shields.io/badge/role-Infrastructure%20%26%20AI/Automation%20Engineer-orange)
 
 
 
