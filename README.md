@@ -3,7 +3,6 @@
 > Solution Designer | Secure Infrastructure & Compliance Architect — secure infrastructure, governance, and operational delivery.
 
 [![availability](https://img.shields.io/badge/availability-Open%20to%20opportunities-brightgreen)](https://github.com/Jonnenpijonne)
-![location](https://img.shields.io/badge/location-Tampere%2C%20Finland-blue)
 ![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-brightgreen?style=for-the-badge)
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
 ![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
