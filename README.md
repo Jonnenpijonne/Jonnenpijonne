@@ -1,6 +1,6 @@
 # Jonnenpijonne 👋
 
-> -Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
+> Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
 ![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-darkblue?style=for-the-badge)
 
