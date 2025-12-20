@@ -5,6 +5,7 @@
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orange)
+![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
 
 
 
