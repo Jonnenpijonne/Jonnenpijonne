@@ -76,9 +76,4 @@ Motto: "If it's not documented and tested, it doesn't exist."
 - Finnish (Native)  
 - English (C1)
 
----
 
-## Next steps / what I can do now
-- Add direct repo links, language breakdowns and license badges for the listed projects (provide repo URLs or make repos public).  
-- Convert achievements into quantified badges (share metrics/dates).  
-- Add contact badges (email, LinkedIn, website) — provide the links you want displayed.
