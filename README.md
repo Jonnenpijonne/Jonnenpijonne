@@ -6,20 +6,20 @@
 ![location](https://img.shields.io/badge/location-Tampere%2C%20Finland-blue)
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Architect-orange)
 
----
+
 
 ## About
 I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality.
 
 Motto: "If it's not documented and tested, it doesn't exist."
 
----
+
 
 ## Current
 - Location: Tampere, Finland  
 - Available: Open to opportunities (Technical Sales, Cloud Infrastructure, Compliance)
 
----
+
 
 ## Core skills
 - Azure & Cloud Governance  
@@ -29,7 +29,7 @@ Motto: "If it's not documented and tested, it doesn't exist."
 - ITIL 4 & operational processes  
 - Technical documentation & validation plans
 
----
+
 
 ## Project badges
 
@@ -38,7 +38,6 @@ Motto: "If it's not documented and tested, it doesn't exist."
 
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 
----
 
 ## Featured projects
 
@@ -64,13 +63,13 @@ Motto: "If it's not documented and tested, it doesn't exist."
 - Tech: GitHub Actions, HTML reporting, scripts  
 - Badge: the Proof HTML badge above points to the demo-repository workflow. Provide the repo URL if this is a separate repo.
 
----
+
 
 ## Achievements
 - Migrated thousands of devices in critical healthcare (HVA) with minimal disruption.  
 - Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments.
 
----
+
 
 ## Languages
 - Finnish (Native)  
