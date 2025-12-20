@@ -28,6 +28,8 @@ Motto: "If it's not documented and tested, it doesn't exist."
 - CI/CD automation and pipeline validation  
 - ITIL 4 & operational processes  
 - Technical documentation & validation plans
+- Focus areas: secure infrastructure delivery, compliance-driven environments, and operational quality.
+
 
 
 
@@ -87,13 +89,13 @@ Detailed list:
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker  
 - Repo: https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-  
-- Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. I can inspect the repo to produce a language/file-type breakdown and add language/license badges if you want.
+- Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. 
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
 - Tech: ClickUp + AI workflows, automation for compliance documentation  
 - Repo: https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI  
-- Notes: If this repo is private or the path needs correction, please confirm or make it public and I’ll add language detection, badges and a direct link.
+
 
 ### Auto-Assign Passing (CI/CD validation & reporting)
 - Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
@@ -115,9 +117,8 @@ Detailed list:
 - Files & notes: README, CHANGELOG, CONTRIBUTING, CI/CD configuration, LICENSE (Apache 2.0)  
 - Created on: November 10, 2025  
 - Last edits: README.MD edited 3 weeks ago (commit id 5096f5bc)  
-- Note: If you plan to push/pull via SSH to this GitLab project, add an SSH key to your GitLab profile (GitLab will remind you: "You can't push or pull repositories using SSH until you add an SSH key to your profile").
 
-(If you want a pipeline badge here, I can add it — confirm the pipeline/branch badge URL or make the project public and I’ll detect the correct badge URL for GitLab.)
+
 
 
 
