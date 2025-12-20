@@ -1,6 +1,6 @@
 # Jonnenpijonne 👋
 
-> Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
+> -Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orange)
