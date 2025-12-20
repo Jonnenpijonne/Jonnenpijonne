@@ -4,8 +4,10 @@
 
 [![availability](https://img.shields.io/badge/availability-Open%20to%20opportunities-brightgreen)](https://github.com/Jonnenpijonne)
 ![location](https://img.shields.io/badge/location-Tampere%2C%20Finland-blue)
-![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Infrastructure & Automation Engineer20%-orange)
-
+![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-brightgreen?style=for-the-badge)
+![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
+![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
+![Role: Technical Solution Architect (Light)](https://img.shields.io/badge/Role-Technical%20Solution%20Architect%20%28Light%29-orange?style=for-the-badge)
 
 
 ## About
