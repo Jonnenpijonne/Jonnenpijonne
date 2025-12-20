@@ -4,7 +4,7 @@
 
 [![availability](https://img.shields.io/badge/availability-Open%20to%20opportunities-brightgreen)](https://github.com/Jonnenpijonne)
 ![location](https://img.shields.io/badge/location-Tampere%2C%20Finland-blue)
-![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Architect-orange)
+![role](https://img.shields.io/badge/role-Solution%20Designer%20%7C%20Compliance%20Infrastructure & Automation Engineer20%-orange)
 
 
 
