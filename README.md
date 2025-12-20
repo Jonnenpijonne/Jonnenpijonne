@@ -6,7 +6,7 @@
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
 ![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
 ![Role: Technical Solution Architect (Light)](https://img.shields.io/badge/Role-Technical%20Solution%20Architect%20%28Light%29-orange?style=for-the-badge)
-![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20AI20%Engineer-orange)
+![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20Engineer-orange)
 
 
 ## About
