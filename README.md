@@ -2,7 +2,6 @@
 
 > Solution Designer | Secure Infrastructure & Compliance Architect — secure infrastructure, governance, and operational delivery.
 
-![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-brightgreen?style=for-the-badge)
 ![Compliance ISO27001/MDR](https://img.shields.io/badge/Compliance-ISO%2027001%2FMDR-blue?style=for-the-badge)
 ![Security-minded](https://img.shields.io/badge/Security%20minded-Compliance%20aware-brightgreen?style=for-the-badge)
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orange)
