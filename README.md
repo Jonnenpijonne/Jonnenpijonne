@@ -16,9 +16,8 @@ I design and validate secure infrastructure and compliance-driven solutions. My 
 
 I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there.
 
-Motto:
+
 "If it's not documented and tested, it doesn't exist." 
-![Motto:](https://img.shields.io/badge/If-it's-not-documented-and-tested,%20it-doesn't-exist%20focused-darkblue?style=for-the-badge)
 
 
 
