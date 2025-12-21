@@ -141,6 +141,10 @@ Detailed list:
 - Finnish (Native)  
 - English (C1)
 
+![Finnish](https://img.shields.io/badge/Finnish-Native-003580?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C1-0a66c2?style=for-the-badge)
+
+
 
 
 
