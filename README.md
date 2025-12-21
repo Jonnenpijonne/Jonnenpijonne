@@ -16,7 +16,7 @@ I design and validate secure infrastructure and compliance-driven solutions. My 
 I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there.
 
 
-![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested%2C-it%20doesn't%20exist-brightgreen?style=for-the-badge)
+![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested%-it%20doesn't%20exist-brightgreen?style=for-the-badge)
 
 
 
