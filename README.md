@@ -1,4 +1,4 @@
-# Jonnenpijonne 
+# Jonnenpijonne 👋🏻
 
 > Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
