@@ -14,6 +14,8 @@
 ## About
 I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality.
 
+I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there.
+
 Motto:
 "If it's not documented and tested, it doesn't exist."
 
