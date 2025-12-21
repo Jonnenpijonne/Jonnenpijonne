@@ -1,4 +1,4 @@
-# Jonnenpijonne 👋
+oo# Jonnenpijonne 👋
 
 > Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
@@ -55,7 +55,7 @@ Motto:
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)!
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 <!-- Languages & scripting basics -->
