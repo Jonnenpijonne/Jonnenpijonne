@@ -21,7 +21,7 @@ Motto:
 
 ## Current
 - Location: Tampere, Finland  
-- Available: Open to opportunities (Technical Sales, Cloud Infrastructure, Compliance)
+- Available: Selective opportunities in Cloud Infrastructure, Compliance & Technical Consulting
 
 
 
