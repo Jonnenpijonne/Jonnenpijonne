@@ -19,7 +19,6 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 
 "If it's not documented and tested, it doesn't exist." 
 
-https://img.shields.io/badge/"If it's not documented and tested, it doesn't exist." 
 
 
 ## Current
