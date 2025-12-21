@@ -2,7 +2,7 @@
 
 > Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
 
-![Compliance-minded](https://img.shields.io/badge/Compliance%20minded-Security%20focused-darkblue?style=for-the-badge)
+![Compliance-aware](https://img.shields.io/badge/Compliance%20minded-Security%20focused-darkblue?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
 ![role](https://img.shields.io/badge/role-Infrastructure%20%26%20Automation%20engineer-brightgreen)
