@@ -61,6 +61,7 @@ Motto:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-012456?style=for-the-badge&logo=powershell&logoColor=gray)
 
 
 
