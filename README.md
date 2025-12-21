@@ -4,7 +4,7 @@ Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infras
 
 ![Compliance-aware](https://img.shields.io/badge/Compliance%20aware-Security%20focused-darkblue?style=for-the-badge)
 
-![role](https://img.shields.io/badge/Role-Solution%20Designer%20-orangered)
+![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
 ![role](https://img.shields.io/badge/-Infrastructure%20%26%20Platform%20engineer-brightgreen)
 
 
