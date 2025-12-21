@@ -46,7 +46,6 @@ Motto:
 <!-- Cloud & identity -->
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)}" />
 
 <!-- Containers & CI -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +62,7 @@ Motto:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-012456?style=for-the-badge&logo=powershell&logoColor=gray)
+![SQL](https://img.shields.io/badge/SQL-012456?style=for-the-badge&logo=sql&logoColor=gray)
 
 
 
