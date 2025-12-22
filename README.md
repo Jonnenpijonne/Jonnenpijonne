@@ -114,8 +114,7 @@ Detailed list:
 ### Proof (HTML passing / reporting)
 - Role: Validation reporting — produce human-readable pass/fail HTML reports for release gates  
 - Tech: GitHub Actions, HTML reporting, scripts  
-- Badge: the Proof HTML badge above points to the demo-repository workflow. Provide the repo URL if this is a separate repo.
-
+- Badge: the Proof HTML badge above points to the demo-repository workflow.
 
 
 ## GitLab — HomeStack
