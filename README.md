@@ -102,7 +102,9 @@ Detailed list:
 [![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker   
-- Notes: Lifecycle management model. Device onboarding → maintenance → decommissioning. 
+- Notes: Lifecycle management model. Device onboarding → maintenance → decommissioning.
+ ![Lifecycle Managed](https://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
+
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
@@ -111,7 +113,7 @@ Detailed list:
 ### Auto-Assign Passing (CI/CD validation & reporting)
 - Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
 - Tech: GitHub Actions, shell scripting, HTML reporting  
-- Badge: the Auto Assign badge above points to the demo-repository workflow. Provide the exact repo URL if you want a direct repository link and language composition added.
+- Badge: the Auto Assign badge above points to the demo-repository workflow. 
 
 ### Proof (HTML passing / reporting)
 - Role: Validation reporting — produce human-readable pass/fail HTML reports for release gates  
