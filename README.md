@@ -100,8 +100,7 @@ Detailed list:
 
 ### Home Assistant as a Service (HaaS)
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
-- Tech: YAML, GitHub Actions, Docker  
-- Repo: https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-  
+- Tech: YAML, GitHub Actions, Docker   
 [![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
 - Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. 
 
