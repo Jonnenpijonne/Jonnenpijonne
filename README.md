@@ -61,6 +61,8 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
+
 
 
 <!-- Languages & scripting basics -->
@@ -68,8 +70,6 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-012456?style=for-the-badge&logo=sql&logoColor=gray)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
-
 
 
 Detailed list:
