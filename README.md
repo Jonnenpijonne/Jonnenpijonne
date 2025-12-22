@@ -17,6 +17,8 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 
 
 ![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested-it%20doesn't%20exist-brightgreen?style=for-the-badge)
+![Code is Debt | Documentation is an Asset](img.shields.io)
+
 
 
 
