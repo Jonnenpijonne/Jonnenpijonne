@@ -37,7 +37,7 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 - CI/CD automation and pipeline validation  
 - ITIL 4 & operational processes  
 - Technical documentation & validation plans
-- Focus areas: secure infrastructure delivery, compliance-driven environments, and operational quality.
+- Focus areas: secure infrastructure delivery, compliance-driven environments, and operational quality
 
 
 
