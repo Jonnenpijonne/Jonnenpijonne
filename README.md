@@ -99,15 +99,14 @@ Detailed list:
 ## Featured projects
 
 ### Home Assistant as a Service (HaaS)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker   
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
-- Notes: Lifecycle management model: Device onboarding → maintenance → decommissioning. 
+- Notes: Lifecycle management model. Device onboarding → maintenance → decommissioning. 
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
 - Tech: ClickUp + AI workflows, automation for compliance documentation  
-
 
 ### Auto-Assign Passing (CI/CD validation & reporting)
 - Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
