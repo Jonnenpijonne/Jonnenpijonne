@@ -119,7 +119,6 @@ Detailed list:
 - Tech: GitHub Actions, HTML reporting, scripts  
 - Badge: the Proof HTML badge above points to the demo-repository workflow.
 
-
 ## ![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white)
 [Project Namespace / URL](https://gitlab.com/Jonnenpijonne/homestack)
 - Project: HomeStack  
