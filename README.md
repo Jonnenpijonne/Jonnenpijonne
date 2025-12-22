@@ -107,7 +107,7 @@ Detailed list:
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
 - Tech: ClickUp + AI workflows, automation for compliance documentation  
-- Repo: https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI  
+- Repo: https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI.  
 
 
 ### Auto-Assign Passing (CI/CD validation & reporting)
