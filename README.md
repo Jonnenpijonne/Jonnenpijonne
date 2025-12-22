@@ -121,7 +121,7 @@ Detailed list:
 
 ## GitLab — HomeStack
 ![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white)
-[Project Namespace](https://gitlab.com/Jonnenpijonne/homestack)
+[/URL](https://gitlab.com/Jonnenpijonne/homestack)
 - Project: HomeStack  
 - Project ID: 75969590  
 - Summary (from project): 10 commits · 1 branch · 0 tags · 55 KiB project storage · 1 environment  
