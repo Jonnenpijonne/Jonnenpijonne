@@ -5,14 +5,14 @@ Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infras
 ![Compliance-aware](https://img.shields.io/badge/Compliance%20aware-Security%20focused-darkblue?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
-![role](https://img.shields.io/badge/-Infrastructure%20%26%20Platform%20engineer-brightgreen)
+![role](https://img.shields.io/badge/-Infrastructure%20%26%20Platform%20Engineer-brightgreen)
 
 
 
 ## About
 I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality.
 
-I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there.
+I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there. Most of my work focuses on making systems auditable and transferable between teams.
 
 
 ![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested-it%20doesn't%20exist-brightgreen?style=for-the-badge)
