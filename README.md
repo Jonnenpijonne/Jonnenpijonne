@@ -6,7 +6,6 @@ Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infras
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
 ![role](https://img.shields.io/badge/-Infrastructure%20%26%20Platform%20engineer-brightgreen)
-![Code is Debt | Documentation is an Asset](https://img.shields.io/badge/Code%20is%20Debt%20%7C%20Documentation%20is%20an%20Asset-darkblue?style=for-the-badge)
 
 
 
@@ -17,6 +16,8 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 
 
 ![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested-it%20doesn't%20exist-brightgreen?style=for-the-badge)
+![Code is Debt | Documentation is an Asset](https://img.shields.io/badge/Code%20is%20Debt%20%7C%20Documentation%20is%20an%20Asset-darkblue?style=for-the-badge)
+
 
 
 
