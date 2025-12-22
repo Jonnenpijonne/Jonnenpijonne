@@ -103,7 +103,6 @@ Detailed list:
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker   
 - Notes: Lifecycle management model. Device onboarding → maintenance → decommissioning.
- ![Lifecycle Managed](https://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
 
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
