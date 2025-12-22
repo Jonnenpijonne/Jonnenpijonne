@@ -99,7 +99,7 @@ Detailed list:
 ## Featured projects
 
 ### Home Assistant as a Service (HaaS)
-[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker   
 - Notes: Lifecycle management model, Device onboarding → maintenance → decommissioning
