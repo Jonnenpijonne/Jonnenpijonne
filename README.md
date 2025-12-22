@@ -135,8 +135,8 @@ Detailed list:
 
 
 ## Achievements
-- Migrated hundreds of devices in critical healthcare (HVA) with minimal disruption.  
-- Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments.
+- Migrated hundreds of devices in critical healthcare (HVA) with minimal disruption 
+- Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments
 
 
 
