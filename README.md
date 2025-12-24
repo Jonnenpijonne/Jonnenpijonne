@@ -84,7 +84,7 @@ Detailed list:
 - AI & Automation: RAG-workflows, AI-agent integration
  (ITSM focus), API-driven documentation automation  
 - Documentation & validation: Technical documentation, validation plans, audit-ready artefacts
--Prefer CLI-first automation and repeatable scripts over manual configuration.    
+-Prefer CLI-first automation and repeatable scripts over manual configuration    
 - Security & compliance exposure: MDR, ISO 27001-aligned environments
 
 
