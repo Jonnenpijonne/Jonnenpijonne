@@ -78,11 +78,13 @@ Detailed list:
 - Containers & runtime: Docker  
 - CI/CD & automation: GitHub Actions  
 - Infrastructure & configuration: Infrastructure as Code (YAML)  
-- Scripting & web basics: Bash, Node.js (basic), JavaScript (basic), HTTP/HTTPS  
+- Scripting & web basics: Bash, Node.js (basic), JavaScript (basic), HTTP/HTTPS
 - Languages (basics/working knowledge): Python, Rust, PowerShell,SQL  
 - ITSM & operations: ITIL 4 practices, service processes, compliance workflows
-- AI & Automation: RAG-workflows, AI-agent integration (ITSM focus), API-driven documentation automation  
-- Documentation & validation: Technical documentation, validation plans, audit-ready artefacts  
+- AI & Automation: RAG-workflows, AI-agent integration
+ (ITSM focus), API-driven documentation automation  
+- Documentation & validation: Technical documentation, validation plans, audit-ready artefacts
+-Prefer CLI-first automation and repeatable scripts over manual configuration.    
 - Security & compliance exposure: MDR, ISO 27001-aligned environments
 
 
