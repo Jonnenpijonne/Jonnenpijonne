@@ -72,6 +72,12 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 ![SQL](https://img.shields.io/badge/SQL-012456?style=for-the-badge&logo=sql&logoColor=gray)
 
 
+I use these tools primarily for:
+- building reproducible infrastructure
+- validating changes through CI/CD
+- producing audit-ready documentation and evidence
+
+
 Detailed list:
 - Operating systems: Linux, Windows  
 - Cloud & identity: Microsoft 365, Azure (Entra ID / Azure AD)  
