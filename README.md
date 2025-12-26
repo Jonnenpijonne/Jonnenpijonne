@@ -110,6 +110,10 @@ Detailed list:
 - Role: Solution design & reproducible infrastructure (IaC + CI)  
 - Tech: YAML, GitHub Actions, Docker   
 - Notes: Lifecycle management model, Device onboarding → maintenance → decommissioning
+- Includes comprehensive RAG-architecture roadmap for AI-driven documentation search
+- Automated Azure deployment validation workflows
+
+
 
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
