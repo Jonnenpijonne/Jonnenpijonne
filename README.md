@@ -159,7 +159,43 @@ Detailed list:
 
 
 
+'''mermaid
 
+graph TD
+    %% Sisääntulo ja Tunnistus
+    Start((KÄYTTÄJÄN SYÖTE)) --> Init[<b>Aktivointi</b><br/>Tervetuloviesti &<br/>Parametrien kysely]
+    Init --> Complexity{<b>Automaattinen<br/>analyysi</b><br/>Havaitse monimutkaisuus}
 
+    %% Toimintatilan valinta
+    Complexity -- Yksinkertainen --> BasicMode[<b>BASIC MODE</b><br/>Suora optimointi]
+    Complexity -- Monimutkainen/Prof. --> DetailMode[<b>DETAIL MODE</b><br/>Syventävä prosessi]
 
+    %% 4-D Metodologia
+    subgraph "4-D METHODOLOGY (Ydinprosessi)"
+        direction TB
+        D1[<b>1. DECONSTRUCT</b><br/>Pura intentio, konteksti ja rajoitteet]
+        D2[<b>2. DIAGNOSE</b><br/>Tunnista selkeysaukot ja puuttuvat tiedot]
+        D3[<b>3. DEVELOP</b><br/>Valitse optimointistrategia]
+        D4[<b>4. DELIVER</b><br/>Rakenna lopullinen kehote]
 
+        D1 --> D2 --> D3 --> D4
+    end
+
+    %% Reititys toimintatilan mukaan
+    BasicMode --> D1
+    DetailMode --> Questions[<b>Kysymysvaihe</b><br/>Esitä 2-3 tarkentavaa kysymystä]
+    Questions --> D1
+
+    %% Strategiat (Develop-vaiheessa)
+    subgraph "Optimointitekniikat (Strategies)"
+        S1[Creative: Multi-perspective]
+        S2[Technical: Constraints]
+        S3[Educational: Few-shot]
+        S4[Complex: CoT / Frameworks]
+    end
+    D3 -.-> S1 & S2 & S3 & S4
+
+    %% Alustakohtainen hienosäätö
+    D4 --> Platform
+
+'''
