@@ -137,7 +137,7 @@ Detailed list:
 [HomeStack/URL](https://gitlab.com/Jonnenpijonne/homestack)
 - ​Project: HomeStack
 -Summary: Infrastructure-as-Code foundation for modular      home services.
--Key Artefacts: CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 Licensed.
+- Key Artefacts: CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 Licensed.
 
 
 
