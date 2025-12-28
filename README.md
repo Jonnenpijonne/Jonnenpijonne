@@ -135,12 +135,9 @@ Detailed list:
 ![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white)
 
 [HomeStack/URL](https://gitlab.com/Jonnenpijonne/homestack)
-- Project: HomeStack  
-- Project ID: 75969590  
-- Summary (from project): 10 commits · 1 branch · 0 tags · 55 KiB project storage · 1 environment  
-- Files & notes: README, CHANGELOG, CONTRIBUTING, CI/CD configuration, LICENSE (Apache 2.0)  
-- Created on: November 10, 2025  
-- Last edits: README.MD edited 3 weeks ago (commit id 5096f5bc)  
+- ​Project: HomeStack
+-Summary: Infrastructure-as-Code foundation for modular      home services.
+-Key Artefacts: CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 Licensed.
 
 
 
