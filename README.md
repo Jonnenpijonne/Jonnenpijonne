@@ -58,6 +58,7 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 
 <!-- IaC & scripting -->
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Quality-focused](https://img.shields.io/badge/Logic%20Validation-TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
