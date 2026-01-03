@@ -1,8 +1,10 @@
 # Jonnenpijonne 👋🏻
 
-Cloud Infrastructure & Compliance Specialist | Solution Designer | Secure Infrastructure & Compliance — governance, validation, and operational delivery.
+Cloud Infrastructure & Compliance Specialist | DevSecOps / Platform & Validation Engineer | Solution Designer — governance, validation, and operational delivery.
 
 ![Compliance-aware](https://img.shields.io/badge/Compliance%20aware-Security%20focused-darkblue?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Quality%20Automation-orange?style=for-the-badge)
+![CI/CD Quality Gates](https://img.shields.io/badge/CI%2FCD-Quality%20Gating-blue?style=for-the-badge)
 
 ![role](https://img.shields.io/badge/role-Solution%20Designer%20-orangered)
 ![role](https://img.shields.io/badge/-Infrastructure%20%26%20Platform%20Engineer-brightgreen)
