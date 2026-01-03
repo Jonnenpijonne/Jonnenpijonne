@@ -12,9 +12,9 @@ Cloud Infrastructure & Compliance Specialist | DevSecOps / Platform & Validation
 
 
 ## About
-I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality.
+I design and validate secure infrastructure and compliance-driven solutions. My work focuses on reliable, auditable delivery where configuration, testing, and documentation prevent issues from reaching end users. I operate across public- and private-sector environments with attention to governance, process, and operational quality. My work aligns strongly with DevSecOps principles: security and compliance built into CI/CD pipelines, automated validation gates, and audit-ready delivery rather than post-hoc controls.
 
-I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there. Most of my work focuses on making systems auditable and transferable between teams. My work aligns strongly with DevSecOps principles: security and compliance built into CI/CD pipelines, automated validation gates, and audit-ready delivery rather than post-hoc controls.
+I’m strongest in designing and building portable, validated CI/CD-driven solutions end-to-end. I may not own large-scale production environments yet, but I build systems that are ready to be taken there. Most of my work focuses on making systems auditable and transferable between teams. 
 
 
 ![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested-it%20doesn't%20exist-brightgreen?style=for-the-badge)
