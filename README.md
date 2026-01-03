@@ -100,6 +100,7 @@ Detailed list:
 ![Proof HTML](https://github.com/JonSil89/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
+[![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
 
 
 
@@ -118,7 +119,6 @@ Detailed list:
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 [![GitHub Repo](https://img.shields.io/badge/Repository-AI--Powered--ITSM-blue?style=for-the-badge&logo=github)](https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI.)
-[![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
 
 - Role: Solution design & automation for ITSM documentation and compliance workflows  
 - Tech: ClickUp + AI workflows, automation for compliance documentation  
