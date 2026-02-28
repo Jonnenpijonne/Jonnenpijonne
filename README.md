@@ -29,8 +29,8 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 ## Current
 - Location: Tampere, Finland  
 - Available: Selective opportunities in Cloud Infrastructure, Compliance & Technical Consulting
--Background: Co-founder & Regulatory Lead, MedTech startup — ISO 13485 / MDR environment. 
--Built compliance automation as response to governance debt in hype-driven development culture.
+- Background: Co-founder & Regulatory Lead, MedTech startup — ISO 13485 / MDR environment. 
+- Built compliance automation as response to governance debt in hype-driven development culture.
 
 
 
