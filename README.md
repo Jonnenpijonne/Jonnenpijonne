@@ -43,6 +43,7 @@ I’m strongest in designing and building portable, validated CI/CD-driven solut
 - Technical documentation & validation plans
 - Focus areas: secure infrastructure delivery, compliance-driven environments, and operational quality
 - DevSecOps practices (CI/CD quality gates, compliance automation)
+- AI-assisted development — Warp agentic workflows, MCP-tool orchestration for infrastructure automation
 
 
 
