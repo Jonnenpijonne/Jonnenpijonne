@@ -165,6 +165,8 @@ CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 Licensed.
 ## Achievements
 - Migrated hundreds of devices in critical healthcare (HVA) with minimal disruption 
 - Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments
+- Designed and built Gatehouse Policy Engine — 
+  ISO 27001-mapped CI/CD quality gate, demottable in 30 seconds
 
 
 
@@ -172,5 +174,6 @@ CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 Licensed.
 ![Finnish](https://img.shields.io/badge/Finnish-Native-003580?style=for-the-badge)
 
 ![English](https://img.shields.io/badge/English-C1-0a66c2?style=for-the-badge)
+
 
 
