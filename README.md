@@ -114,16 +114,17 @@ Detailed list:
 
 ## Featured projects
 
-### Home Assistant as a Service (HaaS)
-[![GitHub Repo](https://img.shields.io/badge/Repository-HaaS-blue?style=for-the-badge&logo=github)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
-- Role: Solution design & reproducible infrastructure (IaC + CI)  
-- Tech: YAML, GitHub Actions, Docker   
-- Notes: Lifecycle management model, Device onboarding → maintenance → decommissioning
-- Includes comprehensive RAG-architecture roadmap for AI-driven documentation search
-- Automated Azure deployment validation workflows
 
+### Gatehouse Policy Engine
+[
 
+![GitHub Repo](https://img.shields.io/badge/Repository-Gatehouse-purple?style=for-the-badge&logo=github)
 
+](https://github.com/JonSil89/gatehouse-policy-engine)
+- Role: Architecture & implementation — ISO 27001-mapped automated change management
+- Tech: Python, GitHub Actions, Markdown
+- Notes: Three-gate validation pipeline, risk classification (1-3), audit trail generation
+- Demo: clone repo and run validator against example in 30 seconds
 
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 [![GitHub Repo](https://img.shields.io/badge/Repository-AI--Powered--ITSM-blue?style=for-the-badge&logo=github)](https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI.)
@@ -135,6 +136,15 @@ Detailed list:
 - Role: Pipeline automation & reporting (validation, pass/fail gating, HTML reports)  
 - Tech: GitHub Actions, shell scripting, HTML reporting  
 - Badge: the Auto Assign badge above points to the demo-repository workflow
+
+### Home Assistant as a Service (HaaS)
+[![GitHub Repo](https://img.shields.io/badge/Repository-HaaS-blue?style=for-the-badge&logo=github)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-)
+- Role: Solution design & reproducible infrastructure (IaC + CI)  
+- Tech: YAML, GitHub Actions, Docker   
+- Notes: Lifecycle management model, Device onboarding → maintenance → decommissioning
+- Includes comprehensive RAG-architecture roadmap for AI-driven documentation search
+- Automated Azure deployment validation workflows
+
 
 ### Proof (HTML passing / reporting)
 - Role: Validation reporting — produce human-readable pass/fail HTML reports for release gates  
