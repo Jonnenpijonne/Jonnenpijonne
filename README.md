@@ -1,8 +1,7 @@
 # Jonnenpijonne 👋🏻
 
 DevSecOps Engineer | Governance & Compliance Automation 
-| Regulated Environments 
-(ISO 27001 · MDR · NIS2)
+| Regulated Environments | (ISO 27001 · MDR · NIS2)
 
 ![Compliance-aware](https://img.shields.io/badge/Compliance%20aware-Security%20focused-darkblue?style=for-the-badge)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Quality%20Automation-orange?style=for-the-badge)
