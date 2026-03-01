@@ -154,7 +154,7 @@ Detailed list:
 - Badge: the Proof HTML badge above points to the demo-repository workflow
 
 ## GitLab — HomeStack
-![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white)
+![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white[HomeStack/URL](https://gitlab.com/Jonnenpijonne/homestack))
 
 [HomeStack/URL](https://gitlab.com/Jonnenpijonne/homestack)
 - ​Project: HomeStack
