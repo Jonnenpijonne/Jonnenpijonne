@@ -116,11 +116,8 @@ Detailed list:
 
 
 ### Gatehouse Policy Engine
-[
+[![GitHub Repo](https://img.shields.io/badge/Repository-Gatehouse-purple?style=for-the-badge&logo=github)](https://github.com/JonSil89/gatehouse-policy-engine)
 
-![GitHub Repo](https://img.shields.io/badge/Repository-Gatehouse-purple?style=for-the-badge&logo=github)
-
-](https://github.com/JonSil89/gatehouse-policy-engine)
 - Role: Architecture & implementation — ISO 27001-mapped automated change management
 - Tech: Python, GitHub Actions, Markdown
 - Notes: Three-gate validation pipeline, risk classification (1-3), audit trail generation
