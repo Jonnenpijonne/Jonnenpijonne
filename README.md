@@ -109,6 +109,7 @@ Detailed list:
 
 ![Auto Assign](https://github.com/JonSil89/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 ![Proof HTML](https://github.com/JonSil89/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+[![Code Quality](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/codeql-python.yml/badge.svg)](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/codeql-python.yml)
 
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 [![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
