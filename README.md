@@ -350,7 +350,7 @@ Notes:
 ## Credentials & learning evidence
 
 ```markdown
-[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](PASTE_MICROSOFT_CREDENTIAL_URL_HERE)
+[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]([PASTE_MICROSOFT_CREDENTIAL_URL_HERE](https://learn.microsoft.com/fi-fi/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 ```
 
 ![HealthTech Regulatory](https://img.shields.io/badge/HealthTech%20Regulatory-PRRC%20%2F%20MDR%20Exposure-darkblue?style=for-the-badge)
