@@ -12,8 +12,6 @@
 ![Governance & Auditability](https://img.shields.io/badge/focus-Governance%20%26%20Auditability-darkblue)
 ![Operational Security](https://img.shields.io/badge/focus-Operational%20Security-black)
 
----
-
 ## About
 
 I design and validate secure infrastructure, governance-aware workflows and compliance-driven technical solutions.
@@ -28,8 +26,6 @@ I’m strongest in designing and building portable, validated, documentation-dri
 ![Code is Debt](https://img.shields.io/badge/Code%20is%20Debt-Documentation%20is%20an%20Asset-darkblue?style=for-the-badge)
 ![Tests & Evidence](https://img.shields.io/badge/Tests%20%26%20Evidence-Make%20Systems%20Transferable-brightgreen?style=for-the-badge)
 ![Complexity Principle](https://img.shields.io/badge/Complexity%20is%20not%20maturity-Know%20what%20not%20to%20build%20yet-orange?style=for-the-badge)
-
----
 
 ## How I think
 
@@ -53,8 +49,6 @@ I prefer lightweight, auditable and recoverable structures where the right solut
 
 **Complexity is not maturity.**
 **Maturity is knowing what not to build yet.**
-
----
 
 ## Portfolio architecture
 
@@ -95,8 +89,6 @@ flowchart TB
     class VALUE value;
 ```
 
----
-
 ## Current
 
 * **Location:** Finland
@@ -104,8 +96,6 @@ flowchart TB
 * **Background:** Co-founder & Regulatory Lead experience in a MedTech startup context — ISO 13485 / MDR environment
 * **Direction:** Secure infrastructure delivery, compliance-driven environments, IAM/RBAC, CI/CD quality gates, local-first development safety and operational governance
 * **Core theme:** Building compliance automation and operational clarity as a response to governance debt in hype-driven development culture
-
----
 
 ## Core skills
 
@@ -123,8 +113,6 @@ flowchart TB
 * Access-control governance / RBAC thinking
 * AI-assisted development with clear operational boundaries
 * Local-first AI workflows and development data safety
-
----
 
 ## Tech stack & tooling
 
@@ -186,8 +174,6 @@ Detailed areas:
 * **Documentation & validation:** technical documentation, validation plans, audit-ready artefacts, CLI-first repeatable scripts
 * **Security & compliance exposure:** MDR, ISO 27001-aligned environments, GDPR-aware development practices, regulated delivery
 
----
-
 ## Project badges
 
 ![Auto Assign](https://github.com/JonSil89/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
@@ -201,8 +187,6 @@ Detailed areas:
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 [![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
 [![Compliance & Policy Guard](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/policy-guard.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/policy-guard.yml)
-
----
 
 ## Featured projects
 
@@ -224,8 +208,6 @@ Notes:
 * RBAC-Lite integration example
 * Demo-friendly validator flow for controlled change review
 
----
-
 ### RBAC-Lite
 
 [![GitHub Repo](https://img.shields.io/badge/Repository-RBAC--Lite-darkgreen?style=for-the-badge\&logo=github)](https://github.com/Jonnenpijonne/RBAC-Lite)
@@ -243,8 +225,6 @@ Notes:
 * Gatehouse-compatible compliance example
 * Main branch protected against force pushes and deletion
 * Completion report documenting the RBAC-Lite + Gatehouse governance work
-
----
 
 ### Local-First WordPress DevSecOps Kit
 
@@ -264,8 +244,6 @@ Notes:
 * Evidence templates for local environment validation and anonymization logs
 * Public-safe refactoring of a regulated project development model
 
----
-
 ### AI-Powered ITSM Documentation & Automated Compliance Workflows
 
 [![GitHub Repo](https://img.shields.io/badge/Repository-AI--Powered--ITSM-blue?style=for-the-badge\&logo=github)](https://github.com/JonSil89/AI-Powered-ITSM-Documentation-Building-automated-compliance-workflows-using-ClickUp-AI.)
@@ -280,8 +258,6 @@ Notes:
 * Compliance-oriented process thinking
 * ITSM documentation and operational structure
 * Early foundation for AI-assisted governance workflows
-
----
 
 ### Home Assistant as a Service — HaaS
 
@@ -299,8 +275,6 @@ Notes:
 * Automated Azure deployment validation workflows
 * Supporting evidence for infrastructure lifecycle and repeatability thinking
 
----
-
 ### Auto-Assign Passing — CI/CD validation & reporting
 
 **Role:** Pipeline automation & reporting
@@ -312,8 +286,6 @@ Notes:
 * The Auto Assign badge above points to the demo repository workflow.
 * Used as a lightweight CI/CD reporting proof.
 
----
-
 ### Proof — HTML passing / reporting
 
 **Role:** Validation reporting
@@ -324,8 +296,6 @@ Notes:
 
 * The Proof HTML badge above points to the demo repository workflow.
 
----
-
 ## GitLab — HomeStack
 
 [![HomeStack GitLab](https://img.shields.io/badge/GitLab-HomeStack-ff69b4?style=for-the-badge\&logo=gitlab\&logoColor=white)](https://gitlab.com/Jonnenpijonne/homestack)
@@ -333,8 +303,6 @@ Notes:
 **Project:** HomeStack
 **Summary:** Infrastructure-as-Code foundation for modular home services
 **Key artefacts:** CI/CD configuration, CHANGELOG, CONTRIBUTING guidelines, Apache 2.0 license
-
----
 
 ## Achievements
 
@@ -344,9 +312,6 @@ Notes:
 * Built RBAC-Lite + Gatehouse governance documentation showing how access-control changes can be made auditable, reviewable and CI/CD-validatable
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
-
----
-
 
 ## Credentials & learning evidence
 
@@ -362,9 +327,6 @@ Notes:
   Focus: MDR/IVDR responsibilities, risk management, audit readiness, post-market surveillance and authority communication.
 
 * **Microsoft Learn transcript:** broad learning record across Microsoft 365, Azure, Entra ID, Purview, Defender, DevOps, governance and security fundamentals.
-
-
-
 
 ## Languages
 
