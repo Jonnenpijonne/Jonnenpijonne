@@ -347,7 +347,9 @@ Notes:
 
 ---
 
-```markdown
+```
+markdown
+
 ## Credentials & learning evidence
 
 [![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/fi-fi/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
