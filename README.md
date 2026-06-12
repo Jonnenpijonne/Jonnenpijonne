@@ -58,6 +58,7 @@ flowchart TB
 
     GH["Gatehouse<br/>Infrastructure Change Quality Gate"]
     RBAC["RBAC-Lite<br/>Access-control governance example"]
+    ESP32["ESP32 Edge Device Security Governance Lab<br/>embedded / edge-device assurance"]
     LOCAL["Local-First WordPress DevSecOps Kit<br/>Docker + privacy + AI boundaries"]
     ITSM["AI-ITSM Compliance Auto<br/>documentation & compliance workflows"]
     HAAS["HaaS<br/>reproducible infra / lifecycle thinking"]
@@ -65,6 +66,7 @@ flowchart TB
 
     ME --> GH
     ME --> RBAC
+    ME --> ESP32
     ME --> LOCAL
     ME --> ITSM
     ME --> HAAS
@@ -72,6 +74,7 @@ flowchart TB
 
     GH -->|"risk classes / approval / rollback / evidence"| GOV["Governance & auditability"]
     RBAC -->|"partner isolation / RBAC / NDA / audit log"| GOV
+    ESP32 -->|"EMB3D / device identity / defensive readiness / evidence"| GOV
     LOCAL -->|"local dev / no prod data / AI boundaries"| GOV
     ITSM -->|"workflow documentation / compliance automation"| GOV
     HAAS -->|"repeatable runtime / lifecycle"| OPS["Operability & recovery"]
@@ -84,7 +87,7 @@ flowchart TB
     classDef gov fill:#efe,stroke:#474,stroke-width:1px;
     classDef value fill:#fff3cd,stroke:#aa7,stroke-width:1px;
 
-    class ME,GH,RBAC,LOCAL,ITSM,HAAS,HOMESTACK core;
+    class ME,GH,RBAC,ESP32,LOCAL,ITSM,HAAS,HOMESTACK core;
     class GOV,OPS gov;
     class VALUE value;
 ```
@@ -184,6 +187,9 @@ Detailed areas:
 
 [![RBAC-Lite Compliance Check](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml)
 
+[![ESP32 Firmware Build](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml)
+[![ESP32 Python Model Tests](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml)
+
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 [![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
 [![Compliance & Policy Guard](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/policy-guard.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/policy-guard.yml)
@@ -225,6 +231,25 @@ Notes:
 * Gatehouse-compatible compliance example
 * Main branch protected against force pushes and deletion
 * Completion report documenting the RBAC-Lite + Gatehouse governance work
+
+### ESP32 / Embedded Edge Device Security Governance Lab
+
+[![GitHub Repo](https://img.shields.io/badge/Repository-ESP32%20Edge%20Security%20Governance-black?style=for-the-badge\&logo=github)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab)
+
+**Role:** Architecture & implementation — embedded/edge-device security governance and evidence modeling
+**Tech:** ESP32 / PlatformIO, C++, Python, pytest, GitHub Actions, Markdown, Mermaid
+**Focus:** Firmware baseline, device identity, sensor data governance, network point inventory, defensive exercise gates, interference observation, EMB3D-aligned threat-modeling evidence and KATAKRI-style public/private boundaries
+
+Notes:
+
+* Local-only ESP32 firmware skeleton with synthetic sensor readings
+* Device identity and configuration boundary model
+* Volatile data-retention boundary and serial-only event visibility
+* Python readiness, inventory, protection and interference-observation models
+* Defensive exercise gate for permission, scope, rollback and evidence readiness
+* MITRE EMB3D-style property mapping and evidence-alignment model
+* Version-controlled repository wiki and Apache-2.0 / NOTICE licensing layer
+* Public-safe design: no real site data, no network scanning, no credential testing and no production-readiness claim
 
 ### Local-First WordPress DevSecOps Kit
 
@@ -310,6 +335,7 @@ Notes:
 * Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments
 * Designed and built Gatehouse / Infrastructure Change Quality Gate — an ISO 27001-aligned CI/CD quality gate concept, demo-friendly with example change requests
 * Built RBAC-Lite + Gatehouse governance documentation showing how access-control changes can be made auditable, reviewable and CI/CD-validatable
+* Built an ESP32 / embedded edge-device security governance lab aligned with EMB3D-style threat-modeling, defensive readiness, evidence validation and controlled public/private boundaries
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
 
@@ -341,4 +367,3 @@ I do not position it as an Expert-level certification. I position it as a practi
 
 ![Finnish](https://img.shields.io/badge/Finnish-Native-003580?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-C1-0a66c2?style=for-the-badge)
-
