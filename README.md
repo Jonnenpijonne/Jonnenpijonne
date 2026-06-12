@@ -313,7 +313,6 @@ Notes:
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
 
-
 ## Credentials & learning evidence
 
 [![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
@@ -325,11 +324,18 @@ Notes:
   Completed: 5 May 2026
   Focus: AD DS administration, domain services, Group Policy, DNS dependencies, hybrid identity foundations and operational troubleshooting.
 
+### Microsoft AD DS Applied Skills in this portfolio
+
+My Microsoft Applied Skills credential in Active Directory Domain Services acts as the infrastructure foundation behind my broader DevSecOps and governance work.
+
+It connects Microsoft hybrid identity, Group Policy, DNS dependencies, AD replication, secure channel troubleshooting, privileged access, auditability and operational diagnostics to the same themes that appear in my projects: controlled change, access governance, recoverability, evidence and safe delivery.
+
+I do not position it as an Expert-level certification. I position it as a practical, hands-on Microsoft skills demonstration in one of the most important operational layers of hybrid infrastructure.
+
 * **HealthTech regulatory training:** Regulatory Essentials in Health Tech / PRRC
   Focus: MDR/IVDR responsibilities, risk management, audit readiness, post-market surveillance and authority communication.
 
 * **Microsoft Learn transcript:** broader learning record across Microsoft 365, Azure, Entra ID, Purview, Defender, DevOps, governance and security fundamentals.
-
 
 ## Languages
 
