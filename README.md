@@ -187,8 +187,9 @@ Detailed areas:
 
 [![RBAC-Lite Compliance Check](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml)
 
-[![ESP32 Firmware Build](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml)
-[![ESP32 Python Model Tests](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml)
+[![ESP32 Firmware Baseline Build](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/firmware-build.yml)
+[![Python Model Tests](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/python-model-tests.yml)
+[![ESP32 IoT Security Governance Validation](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/validation.yml/badge.svg)](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab/actions/workflows/validation.yml)
 
 [![HaaS CI](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml/badge.svg)](https://github.com/JonSil89/Home-Assistant-as-a-Service-HAaaS-/actions/workflows/blank.yml)
 [![AI ITSM Full Stack CI](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/JonSil89/AI-ITSM-Compliance-Auto/actions/workflows/compliance-check.yml)
