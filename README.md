@@ -18,7 +18,7 @@ I design and validate secure infrastructure, governance-aware workflows and comp
 
 My work focuses on reliable, auditable delivery where configuration, testing, documentation and validation prevent issues from reaching end users. I operate across public-sector, healthcare-adjacent, regulated and infrastructure-heavy environments with attention to operational reliability, governance and controlled change.
 
-My work aligns strongly with DevSecOps principles: security and compliance built into CI/CD pipelines, automated validation gates, local-first development safety and audit-ready delivery rather than post-hoc controls.
+My portfolio aligns strongly with DevSecOps principles: security and compliance built into CI/CD pipelines, automated validation gates, local-first development safety and audit-ready delivery rather than post-hoc controls.
 
 I’m strongest in designing and building portable, validated, documentation-driven solutions end-to-end. I may not yet own large-scale production platforms end-to-end, but I build systems and governance structures that are ready to be reviewed, transferred, operated and improved by others.
 
@@ -179,7 +179,7 @@ Detailed areas:
 * **Documentation & validation:** technical documentation, validation plans, audit-ready artefacts, CLI-first repeatable scripts
 * **Security & compliance exposure:** MDR, ISO 27001-aligned environments, GDPR-aware development practices, regulated delivery
 
-## Project badges
+## Validation badges & evidence
 
 ![Auto Assign](https://github.com/JonSil89/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 ![Proof HTML](https://github.com/JonSil89/demo-repository/actions/workflows/proof-html.yml/badge.svg)
