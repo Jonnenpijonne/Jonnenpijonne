@@ -347,25 +347,24 @@ Notes:
 
 ---
 
+```markdown
 ## Credentials & learning evidence
 
-```markdown
-[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/fi-fi/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-```
-
+[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/fi-fi/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
 ![HealthTech Regulatory](https://img.shields.io/badge/HealthTech%20Regulatory-PRRC%20%2F%20MDR%20Exposure-darkblue?style=for-the-badge)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Continuous%20Cloud%20%26%20Security%20Learning-5E5E5E?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Continuous%20Cloud%20%26%20Security%20Learning-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
-* **Microsoft Applied Skills:** Administer Active Directory Domain Services
-  Credential ID: `CA01C7ED2E401F38`
+* **Microsoft Applied Skills:** Administer Active Directory Domain Services  
+  Credential ID: `CA01C7ED2E401F38`  
   Focus: AD DS administration, domain services, hybrid identity foundations and operational troubleshooting.
 
-* **HealthTech regulatory training:** Regulatory Essentials in Health Tech / PRRC
+* **HealthTech regulatory training:** Regulatory Essentials in Health Tech / PRRC  
   Focus: MDR/IVDR responsibilities, risk management, audit readiness, post-market surveillance and authority communication.
 
 * **Microsoft Learn transcript:** broad learning record across Microsoft 365, Azure, Entra ID, Purview, Defender, DevOps, governance and security fundamentals.
 
 ---
+```
 
 ## Languages
 
