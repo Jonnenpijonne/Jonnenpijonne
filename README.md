@@ -313,17 +313,6 @@ Notes:
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
 
-## Credentials & learning evidence
-
-[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
-![HealthTech Regulatory](https://img.shields.io/badge/HealthTech%20Regulatory-PRRC%20%2F%20MDR%20Exposure-darkblue?style=for-the-badge)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Continuous%20Cloud%20%26%20Security%20Learning-5E5E5E?style=for-the-badge\&logo=microsoft\&logoColor=white)
-
-* **Microsoft Applied Skills:** Administer Active Directory Domain Services
-  Credential ID: `CA01C7ED2E401F38`
-  Focus: AD DS administration, domain services, hybrid identity foundations and operational troubleshooting.
-  ## Microsoft Applied Skills — Active Directory Domain Services
-
 
 ## Credentials & learning evidence
 
