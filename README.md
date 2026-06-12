@@ -349,7 +349,10 @@ Notes:
 
 ## Credentials & learning evidence
 
-![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+```markdown
+[![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](PASTE_MICROSOFT_CREDENTIAL_URL_HERE)
+```
+
 ![HealthTech Regulatory](https://img.shields.io/badge/HealthTech%20Regulatory-PRRC%20%2F%20MDR%20Exposure-darkblue?style=for-the-badge)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Continuous%20Cloud%20%26%20Security%20Learning-5E5E5E?style=for-the-badge\&logo=microsoft\&logoColor=white)
 
