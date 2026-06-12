@@ -146,6 +146,8 @@ flowchart TB
 <!-- Languages & tooling -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-Embedded%20Tooling%20Exposure-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-ESP32%20Firmware%20Exposure-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Validation-012456?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-Tooling%20Exposure-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
@@ -171,7 +173,7 @@ Detailed areas:
 * **CI/CD & automation:** GitHub Actions, validation workflows, quality gates
 * **Infrastructure & configuration:** Infrastructure as Code thinking, YAML, repeatable runtime configuration
 * **Scripting:** Bash, PowerShell, Python
-* **Languages / tooling exposure:** Python, PHP / WordPress context, Rust tooling exposure, SQL, JavaScript / Node.js basics
+* **Languages / tooling exposure:** Python, C / C++ embedded firmware exposure through ESP32 / PlatformIO baseline work, PHP / WordPress context, Rust tooling exposure, SQL, JavaScript / Node.js basics
 * **ITSM & operations:** ITIL 4 practices, service processes, compliance workflows
 * **AI & automation:** local-first AI workflows, RAG concepts, AI-agent boundaries, API-driven documentation automation
 * **Documentation & validation:** technical documentation, validation plans, audit-ready artefacts, CLI-first repeatable scripts
