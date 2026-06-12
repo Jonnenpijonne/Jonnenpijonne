@@ -344,7 +344,11 @@ Notes:
 * Built RBAC-Lite + Gatehouse governance documentation showing how access-control changes can be made auditable, reviewable and CI/CD-validatable
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
-```markdown
+
+  
+```
+markdown
+
 ---
 
 ## Credentials & learning evidence
