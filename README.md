@@ -344,6 +344,24 @@ Notes:
 * Built RBAC-Lite + Gatehouse governance documentation showing how access-control changes can be made auditable, reviewable and CI/CD-validatable
 * Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
 * Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
+```markdown
+---
+
+## Credentials & learning evidence
+
+![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HealthTech Regulatory](https://img.shields.io/badge/HealthTech%20Regulatory-PRRC%20%2F%20MDR%20Exposure-darkblue?style=for-the-badge)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Continuous%20Cloud%20%26%20Security%20Learning-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+- **Microsoft Applied Skills:** Administer Active Directory Domain Services  
+  Credential ID: `CA01C7ED2E401F38`  
+  Focus: AD DS administration, domain services, hybrid identity foundations and operational troubleshooting.
+
+- **HealthTech regulatory training:** Regulatory Essentials in Health Tech / PRRC  
+  Focus: MDR/IVDR responsibilities, risk management, audit readiness, post-market surveillance and authority communication.
+
+- **Microsoft Learn transcript:** broad learning record across Microsoft 365, Azure, Entra ID, Purview, Defender, DevOps, governance and security fundamentals.
+```
 
 ---
 
