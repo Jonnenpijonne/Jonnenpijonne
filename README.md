@@ -131,31 +131,56 @@ flowchart TB
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity%20%26%20Access-0078D4?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Hybrid%20Identity-003B57?style=for-the-badge)
 
-<!-- Containers & CI -->
+<!-- Containers, Local Runtime & CI/CD -->
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Local%20Runtime-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-<!-- IaC & scripting -->
+<!-- Web Platform & Deployment -->
 
-![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge\&logo=yaml\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge\&logo=powershell\&logoColor=white)
-
-<!-- Languages & tooling -->
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-Embedded%20Tooling%20Exposure-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-ESP32%20Firmware%20Exposure-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Validation-012456?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-Tooling%20Exposure-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Platform%20Development-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Platform%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Web%20Deployment-black?style=for-the-badge&logo=vercel&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-Web%20Platform%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
+
+<!-- Frontend & Runtime Basics -->
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic%20Working%20Knowledge-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Basic%20Working%20Knowledge-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
+
+
+<!-- Scripting, Automation & Configuration -->
+
+![YAML](https://img.shields.io/badge/YAML-Configuration%20%26%20Pipelines-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Local%20Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft%20Automation-012456?style=for-the-badge&logo=powershell&logoColor=white)
+
+<!-- Programming, Validation & Data -->
+
+![Python](https://img.shields.io/badge/Python-Validation%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Validation-012456?style=for-the-badge)
+![C](https://img.shields.io/badge/C-Embedded%20Tooling%20Exposure-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-ESP32%20Firmware%20Exposure-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic%20Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Basic%20Working%20Knowledge-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+<!-- Security, Governance & Evidence -->
+
+![OWASP](https://img.shields.io/badge/OWASP-Web%20Security%20Baseline-000000?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Defensive%20Mapping-red?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Governance%20%26%20Evidence-orange?style=for-the-badge)
+![Audit Evidence](https://img.shields.io/badge/Audit%20Evidence-Validation%20Reports-darkgreen?style=for-the-badge)
+
+<!-- Technical Documentation -->
+
+![Markdown](https://img.shields.io/badge/Markdown-Technical%20Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Docs](https://img.shields.io/badge/Docs-Runbooks%20%26%20Validation%20Notes-blue?style=for-the-badge)
+
+
 
 I use these tools primarily for:
 
