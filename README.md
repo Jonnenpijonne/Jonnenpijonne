@@ -144,7 +144,6 @@ flowchart TB
 ![Vercel](https://img.shields.io/badge/Vercel-Web%20Deployment-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-Web%20Platform%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
 
 <!-- Frontend & Runtime Basics -->
 
@@ -164,9 +163,6 @@ flowchart TB
 ![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Validation-012456?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-Embedded%20Tooling%20Exposure-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-ESP32%20Firmware%20Exposure-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic%20Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Basic%20Working%20Knowledge-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 <!-- Security, Governance & Evidence -->
 
