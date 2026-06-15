@@ -22,8 +22,8 @@ My portfolio aligns strongly with DevSecOps principles: security and compliance 
 
 I’m strongest in designing and building portable, validated, documentation-driven solutions end-to-end. I may not yet own large-scale production platforms end-to-end, but I build systems and governance structures that are ready to be reviewed, transferred, operated and improved by others.
 
-> I do not build systems to impress people with complexity.  
-> I build them so that the next person can understand what changed, why it changed, how to prove it worked, and how to recover when it doesn’t.
+> **I do not build systems to impress people with complexity. I build them so that the next person can understand what changed, why it changed, how to prove it worked, and how to recover when it doesn’t.**
+
 
 ![Documentation & Tests](https://img.shields.io/badge/If%20it's%20not%20documented%20and%20tested-it%20doesn't%20exist-brightgreen?style=for-the-badge)
 ![Code is Debt](https://img.shields.io/badge/Code%20is%20Debt-Documentation%20is%20an%20Asset-darkblue?style=for-the-badge)
