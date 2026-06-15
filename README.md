@@ -381,7 +381,7 @@ Notes:
 
 ### Microsoft AD DS Applied Skills in this portfolio
 
-My Microsoft Applied Skills credential in Active Directory Domain Services acts as the infrastructure foundation behind my broader DevSecOps and governance work.
+My Microsoft Applied Skills credential in Active Directory Domain Services provides the hybrid identity and operational infrastructure foundation behind my broader DevSecOps, access governance and compliance automation work.
 
 It connects Microsoft hybrid identity, Group Policy, DNS dependencies, AD replication, secure channel troubleshooting, privileged access, auditability and operational diagnostics to the same themes that appear in my projects: controlled change, access governance, recoverability, evidence and safe delivery.
 
