@@ -94,7 +94,6 @@ flowchart TB
     class GOV,OPS gov;
     class VALUE value;
 ```
-
 ## Current
 
 * **Location:** Finland
