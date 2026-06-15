@@ -152,6 +152,7 @@ flowchart TB
 ![Rust](https://img.shields.io/badge/Rust-Tooling%20Exposure-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-Platform%20Development-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Web%20Deployment-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic%20Working%20Knowledge-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Basic%20Working%20Knowledge-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
