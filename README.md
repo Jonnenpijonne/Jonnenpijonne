@@ -6,6 +6,9 @@
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Quality%20Automation-orange?style=for-the-badge)
 ![CI/CD Quality Gates](https://img.shields.io/badge/CI%2FCD-Quality%20Gating-blue?style=for-the-badge)
 ![Local First](https://img.shields.io/badge/Local--First-Dev%20%26%20AI%20Workflows-purple?style=for-the-badge)
+[![CI](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/ci.yml)
+[![Security](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/security-scan.yml/badge.svg)](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/security-scan.yml)
+[![CD](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/container-publish.yml/badge.svg)](https://github.com/Jonnenpijonne/local-first-wordpress-devsecops-kit/actions/workflows/container-publish.yml)
 
 ![Solution Designer](https://img.shields.io/badge/role-Solution%20Designer-orangered)
 ![Infrastructure & Platform](https://img.shields.io/badge/role-Infrastructure%20%26%20Platform%20Engineer-brightgreen)
