@@ -125,7 +125,7 @@ flowchart TB
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-
+![WSL2](https://img.shields.io/badge/WSL2-Ubuntu%20%2F%20Linux%20on%20Windows-4EAA25?style=for-the-badge&logo=ubuntu&logoColor=white)
 <!-- Cloud & identity -->
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
