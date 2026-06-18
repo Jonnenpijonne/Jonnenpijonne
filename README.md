@@ -125,6 +125,7 @@ flowchart TB
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-Ubuntu%20%2F%20Linux%20on%20Windows-4EAA25?style=for-the-badge&logo=ubuntu&logoColor=white)
 <!-- Cloud & identity -->
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
@@ -142,7 +143,6 @@ flowchart TB
 
 ![WordPress](https://img.shields.io/badge/WordPress-Platform%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Web%20Deployment-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-Web%20Platform%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
