@@ -360,14 +360,20 @@ Notes:
 
 ## Achievements
 
-* Migrated hundreds of devices in critical healthcare HVA environments with minimal disruption
-* Built audit-ready documentation and validation artefacts for MedTech systems in regulated environments
-* Designed and built Gatehouse / Infrastructure Change Quality Gate — an ISO 27001-aligned CI/CD quality gate concept, demo-friendly with example change requests
-* Built RBAC-Lite + Gatehouse governance documentation showing how access-control changes can be made auditable, reviewable and CI/CD-validatable
-* Built an ESP32 / embedded edge-device security governance lab aligned with EMB3D-style threat-modeling, defensive readiness, evidence validation and controlled public/private boundaries
-* Created a public-safe Local-First WordPress DevSecOps Kit to demonstrate Dockerized local development, privacy-safe data handling, AI boundaries and audit evidence templates
-* Applied lightweight governance thinking: build only the structure needed now, while preserving auditability, recoverability and future evolution
+## Professional / operational experience
 
+- Supported large-scale workstation and user-environment migrations in critical Finnish healthcare and public-sector HVA environments.
+- Worked with Microsoft 365, Entra ID / Azure AD, on-prem Active Directory, Intune, SCCM-related support, Efecte ITSM, application access chains and end-user support in regulated multi-client environments.
+- Handled practical identity and access-related support work, including user attributes, application access dependencies, smart-card / card-reader related support chains and escalation documentation.
+- Built strong operational documentation habits through migration work, onsite support, technical customer interface and regulated-environment troubleshooting.
+
+## Portfolio / validation labs
+
+- Built an ESP32 / embedded edge-device security governance lab with PlatformIO firmware build validation, Python model tests, GitHub Actions and public-safe documentation boundaries.
+- Built Gatehouse-style infrastructure change quality gate examples covering risk classification, approval logic, rollback thinking and audit evidence.
+- Built RBAC-Lite access-control governance examples around partner isolation, role boundaries and audit logging.
+- Built local-first WordPress / Docker DevSecOps documentation patterns focused on repeatable local environments, runbooks, handover and safe development boundaries.
+- Documented quality-gate architecture decisions showing why different repositories use different controls based on their risk profile instead of forcing one governance model everywhere.
 ## Credentials & learning evidence
 
 [![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft%20Applied%20Skills-Active%20Directory%20Domain%20Services-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
