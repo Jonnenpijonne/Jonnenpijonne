@@ -141,7 +141,7 @@ flowchart TB
 
 <!-- Web Platform & Deployment -->
 
-![Vercel](https://img.shields.io/badge/Vercel-Static%20Documentation%20Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Public--Safe%20Static%20Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Context-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocol%20%26%20Security-informational?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-Web%20Platform%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
