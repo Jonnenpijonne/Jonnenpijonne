@@ -46,7 +46,7 @@ Workflow and compliance-automation experiments around ITSM, validation and AI-as
 ### [Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
 **Microsoft · completed 5 May 2026 · Credential ID `CA01C7ED2E401F38`**
 
-A hands-on Microsoft Applied Skills credential assessed in an interactive lab. The assessment covers AD DS domain controllers, Active Directory topology, AD DS objects, Group Policy and AD DS security.
+A performance-based Microsoft Applied Skills credential earned through a two-hour interactive assessment lab. The assessment evaluates hands-on administration of AD DS domain controllers and topology, directory objects and privileged groups, Group Policy, delegated access, password and security policy, and auditing. Microsoft's published assessment scope includes tasks such as deploying domain controllers, transferring FSMO roles, configuring sites and subnets, managing gMSA and Protected Users, recovering directory objects, and configuring GPOs.
 
 Detailed portfolio notes: [`docs/credentials/MICROSOFT_ADDS_APPLIED_SKILLS.md`](docs/credentials/MICROSOFT_ADDS_APPLIED_SKILLS.md)
 
