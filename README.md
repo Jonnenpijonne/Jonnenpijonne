@@ -8,6 +8,45 @@ My strongest work sits at the intersection of infrastructure, CI/CD, IAM/RBAC, o
 
 > **Complexity is not maturity. Maturity is knowing what not to build yet.**
 
+## Portfolio architecture
+
+The projects below are different implementations of the same operating idea: hands-on infrastructure and regulated-delivery experience translated into controlled, auditable and transferable systems.
+
+```mermaid
+flowchart TB
+    TECH["Hands-on technical foundation<br/>AD DS · Microsoft 365 · Entra ID<br/>Windows/Linux · endpoint & infrastructure operations"]
+    REG["Regulated delivery foundation<br/>HealthTech · quality · risk<br/>validation · traceability"]
+    SE["Solution Engineering<br/>Infrastructure · DevSecOps · Governance"]
+
+    TECH --> SE
+    REG --> SE
+
+    GH["Infrastructure Change<br/>Quality Gate"]
+    RBAC["RBAC-Lite<br/>Identity & access governance"]
+    ESP["ESP32 Security<br/>Governance Lab"]
+    LOCAL["Local-First WordPress<br/>DevSecOps Kit"]
+    OAAS["Operations as a Service<br/>Blueprint"]
+    ITSM["AI-ITSM<br/>Compliance Auto"]
+
+    SE --> GH
+    SE --> RBAC
+    SE --> ESP
+    SE --> LOCAL
+    SE --> OAAS
+    SE --> ITSM
+
+    GH --> GOV["Controlled change<br/>security · validation · evidence"]
+    RBAC --> GOV
+    ESP --> GOV
+    LOCAL --> GOV
+    ITSM --> GOV
+
+    OAAS --> OPS["Ownership · recovery<br/>handover · operability"]
+
+    GOV --> VALUE["Auditable · recoverable<br/>transferable systems"]
+    OPS --> VALUE
+```
+
 ## Featured work
 
 ### [Infrastructure Change Quality Gate](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate)
@@ -59,6 +98,26 @@ Regulatory training and certificate covering medical-device and IVD regulatory r
 
 - **Critical healthcare and public-sector ICT:** practical work across Microsoft 365, Entra ID / Azure AD, on-prem Active Directory, Intune, SCCM-related support, Efecte ITSM, application-access dependencies, workstation/user-environment migrations and operational troubleshooting.
 - **Regulated HealthTech:** quality, risk, validation and compliance documentation in ISO 13485, ISO 14971 and MDR contexts, including co-founder and regulatory-quality responsibilities.
+
+## Core technology stack
+
+Primary tools and platforms that recur across my operational work and authored portfolio:
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity%20%26%20Access-0078D4?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-003B57?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Reproducible%20Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft%20Automation-012456?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Validation%20%26%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-Configuration%20%26%20Pipelines-000000?style=flat-square&logo=yaml&logoColor=white)
 
 ## Engineering principles
 
