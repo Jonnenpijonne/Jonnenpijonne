@@ -33,10 +33,32 @@ A lightweight IAM/RBAC and partner-isolation example focused on tenant boundarie
 
 [![RBAC-Lite Compliance Check](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml/badge.svg)](https://github.com/Jonnenpijonne/RBAC-Lite/actions/workflows/compliance-check.yml)
 
+### [Operations as a Service Blueprint](https://github.com/Jonnenpijonne/operations-as-a-service-blueprint)
+A public-safe operations model for service ownership, escalation, controlled change, recovery, handover and audit evidence.
+
 ### [AI-ITSM Compliance Auto](https://github.com/JonSil89/AI-ITSM-Compliance-Auto)
 Workflow and compliance-automation experiments around ITSM, validation and AI-assisted operational documentation.
 
 `JonSil89` is a GitHub organization I use for selected shared/demo projects; `Jonnenpijonne` is my personal account.
+
+## Verified credentials
+
+### [Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/users/jonnesilvennoinen-7257/credentials/ca01c7ed2e401f38)
+**Microsoft · completed 5 May 2026 · Credential ID `CA01C7ED2E401F38`**
+
+A hands-on Microsoft Applied Skills credential assessed in an interactive lab. The assessment covers AD DS domain controllers, Active Directory topology, AD DS objects, Group Policy and AD DS security.
+
+Detailed portfolio notes: [`docs/credentials/MICROSOFT_ADDS_APPLIED_SKILLS.md`](docs/credentials/MICROSOFT_ADDS_APPLIED_SKILLS.md)
+
+### Regulatory Essentials in Health Tech / PRRC
+**Labquality / Aurevia · completed December 2024**
+
+Regulatory training and certificate covering medical-device and IVD regulatory responsibilities, risk management, post-market surveillance, quality-management responsibilities and the PRRC role.
+
+## Professional foundation
+
+- **Critical healthcare and public-sector ICT:** practical work across Microsoft 365, Entra ID / Azure AD, on-prem Active Directory, Intune, SCCM-related support, Efecte ITSM, application-access dependencies, workstation/user-environment migrations and operational troubleshooting.
+- **Regulated HealthTech:** quality, risk, validation and compliance documentation in ISO 13485, ISO 14971 and MDR contexts, including co-founder and regulatory-quality responsibilities.
 
 ## Engineering principles
 
