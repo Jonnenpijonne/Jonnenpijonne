@@ -57,7 +57,9 @@ Regulatory training and certificate covering medical-device and IVD regulatory r
 
 ## Professional foundation
 
-- **Critical healthcare and public-sector ICT:** practical work across Microsoft 365, Entra ID / Azure AD, on-prem Active Directory, Intune, SCCM-related support, Efecte ITSM, application-access dependencies, workstation/user-environment migrations and operational troubleshooting.
+- **Tiera Akatemia Häme / Saranen Consulting (24 Oct 2022 – 1 Mar 2023):** completed a work-integrated recruitment training programme while working in IT Specialist duties at Tiera. The programme combined structured training, active self-study and practical IT work, covering Windows 10, Microsoft 365, IT service management / ITIL practices, networking, Service Desk security, GDPR/data protection, troubleshooting and customer-facing IT work.
+- **Tiera HVA support during the programme:** technical support / SPOC work for OmaHäme and Länsi-Uusimaa wellbeing-services environments, including service requests and incidents, troubleshooting, user guidance, standard application installation/distribution and end-user communication.
+- **Microsoft platform development:** continued Microsoft Learn study across Microsoft 365, Entra ID, Azure, Intune/device management, security, compliance and DevOps, building on the Microsoft-focused training completed during the Tiera Academy period.
 - **Regulated HealthTech:** quality, risk, validation and compliance documentation in ISO 13485, ISO 14971 and MDR contexts, including co-founder and regulatory-quality responsibilities.
 
 ## Engineering principles
