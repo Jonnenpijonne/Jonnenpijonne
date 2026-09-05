@@ -1,6 +1,6 @@
 # Jonne Silvennoinen
 
-**Infrastructure / DevSecOps / Governance Engineering**
+**Solution Engineering | Infrastructure, DevSecOps & Governance**
 
 I design and validate controlled, auditable infrastructure and automation where security, testing, documentation, rollback and operational ownership are part of delivery — not an afterthought.
 
@@ -67,11 +67,11 @@ Local-first AI workflows · RAG concepts · agent boundaries · API-driven autom
 
 ## How I think
 
-As a developer, I care about repeatability, validation and evidence.
+As an engineer, I care about repeatability, validation and evidence.
 
 As an operator, I care about recoverability, ownership and clear boundaries.
 
-As an architect, I care about making the smallest system that is sufficient now without blocking the next safe step.
+When designing systems, I care about making the smallest system that is sufficient now without blocking the next safe step.
 
 I do not treat a large technology list as proof of engineering maturity. The portfolio projects above are intended to show the design decisions, constraints, validation and operational reasoning behind the implementation.
 
