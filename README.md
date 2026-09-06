@@ -101,7 +101,20 @@ Regulatory training and certificate covering medical-device and IVD regulatory r
 
 ## Core technology stack
 
-Primary tools and platforms that recur across my operational work and authored portfolio:
+Primary technologies I use repeatedly across operational work and authored portfolio projects.
+
+**Engineering & automation**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Reproducible%20Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft%20Automation-012456?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Validation%20%26%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-Configuration%20%26%20Pipelines-000000?style=flat-square&logo=yaml&logoColor=white)
+
+**Platforms & infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -111,13 +124,7 @@ Primary tools and platforms that recur across my operational work and authored p
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Reproducible%20Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Microsoft%20Automation-012456?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Validation%20%26%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-Configuration%20%26%20Pipelines-000000?style=flat-square&logo=yaml&logoColor=white)
+**Project-specific technologies:** PHP / WordPress · MariaDB · C++ / ESP32 · PlatformIO
 
 ## Engineering principles
 
@@ -135,7 +142,7 @@ Primary tools and platforms that recur across my operational work and authored p
 Linux · Windows · Microsoft 365 · Entra ID · Active Directory foundations · Azure foundations · Docker · Docker Compose · Infrastructure-as-Code thinking
 
 **Automation & CI/CD**  
-GitHub Actions · Bash · PowerShell · Python · YAML · validation gates · policy checks · repeatable CLI workflows
+Git · GitHub Actions · Bash · PowerShell · Python · YAML · validation gates · policy checks · repeatable CLI workflows
 
 **Security & governance**  
 IAM/RBAC · operational security · audit evidence · controlled change · threat modelling · GDPR-aware development practices · ISO 27001-aligned control thinking · MDR / regulated-environment exposure
