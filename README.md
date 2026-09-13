@@ -55,6 +55,9 @@ A lightweight DevSecOps policy and validation engine for infrastructure changes:
 [![Gatehouse Audit Evidence](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/audit-evidence-report.yml/badge.svg)](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/audit-evidence-report.yml)
 [![Gatehouse Code Quality](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/codeql-python.yml/badge.svg)](https://github.com/Jonnenpijonne/infrastructure-change-quality-gate/actions/workflows/codeql-python.yml)
 
+### [Governed Knowledge Base — Portfolio Demo](https://github.com/Jonnenpijonne/governed-knowledge-base-portfolio)
+A bilingual clean-room portfolio project demonstrating source-of-truth boundaries, ADR-based decision records, AI governance, synthetic test data, automated validation and audit-ready handover.
+
 ### [ESP32 IoT Security Governance Lab](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab)
 Edge-device assurance lab covering threat modelling, secure configuration, OTA/update risk, rollback, firmware validation and audit evidence.
 
