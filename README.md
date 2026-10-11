@@ -58,6 +58,9 @@ A lightweight DevSecOps policy and validation engine for infrastructure changes:
 ### [Governed Knowledge Base — Portfolio Demo](https://github.com/Jonnenpijonne/governed-knowledge-base-portfolio)
 A bilingual clean-room portfolio project demonstrating source-of-truth boundaries, ADR-based decision records, AI governance, synthetic test data, automated validation and audit-ready handover.
 
+### [Security Control Plane — Portfolio Integration Demo](https://github.com/Jonnenpijonne/security-control-plane-portfolio)
+A clean-room integration demonstration connecting security incidents, operational tickets, governance actions and audit evidence without replacing their authoritative source systems. The project translates a fragmented operational problem into user stories, acceptance criteria, system boundaries, a relational data model, deterministic validation and tested exception logic.
+
 ### [ESP32 IoT Security Governance Lab](https://github.com/Jonnenpijonne/esp32-iot-security-governance-lab)
 Edge-device assurance lab covering threat modelling, secure configuration, OTA/update risk, rollback, firmware validation and audit evidence.
 
